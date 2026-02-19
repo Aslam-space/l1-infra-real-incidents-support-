@@ -4,22 +4,19 @@
 User Unable to Connect to VPN
 
 ## Description
-Remote user was unable to establish a VPN connection.
+A remote user reported that they were unable to establish a VPN connection due to authentication failure.
 
-## User-Reported Problem
-VPN authentication failed.
-
-## Initial Checks (L1)
-- Verified internet connectivity.
-- Checked VPN client status.
+## Initial Checks
+- Verified internet connectivity
+- Checked VPN client status
 
 ## Troubleshooting Performed
-- Verified user credentials.
-- Checked VPN account validity.
-- Reset VPN credentials.
+- Verified user credentials
+- Checked VPN account validity
+- Reset VPN credentials
 
 ## Root Cause
-Expired VPN credentials.
+VPN credentials had expired.
 
 ## Resolution
-VPN credentials were updated, and the user was able to successfully connect.
+Updated the user’s VPN credentials. The user successfully established a VPN connection afterward.
