@@ -1,34 +1,25 @@
 # Ticket ID: TICKET-020
 
 ## Issue Title
-User unable to connect to VPN
+User Unable to Connect to VPN
 
 ## Description
-Remote user unable to establish VPN connection.
+Remote user was unable to establish a VPN connection.
 
-## User Reported Problem
+## User-Reported Problem
 VPN authentication failed.
 
 ## Initial Checks (L1)
-- Verified internet connectivity
-- Checked VPN client status
+- Verified internet connectivity.
+- Checked VPN client status.
 
 ## Troubleshooting Performed
-- Verified user credentials
-- Checked VPN account validity
-- Reset VPN credentials
+- Verified user credentials.
+- Checked VPN account validity.
+- Reset VPN credentials.
 
 ## Root Cause
 Expired VPN credentials.
 
 ## Resolution
-Credentials renewed and VPN access restored.
-
-## Status
-Resolved at L1 level
-
-## SLA Impact
-Resolved within SLA
-
-## Learning
-Authentication issues are common VPN failures.
+VPN credentials were updated, and the user was able to successfully connect.
